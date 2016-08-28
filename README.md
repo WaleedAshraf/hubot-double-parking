@@ -22,5 +22,5 @@ Then add **hubot-double-parking** to your `external-scripts.json`:
 
 ```
 user1>> hubot car add 1234 Honda City
-hubot>> Car Added: 1234 : Shell : undefined : Honda City
+hubot>> Car Added: 1234 : user1 : user 1 : Honda City
 ```
