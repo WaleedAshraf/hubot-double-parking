@@ -20,7 +20,44 @@ Then add **hubot-double-parking** to your `external-scripts.json`:
 
 ## Sample Interaction
 
+### Commands
+
+```
+hubot>> car find <number> - Will send message to owner of the car to visit parking.
+hubot>> car add <number> <description> - Car with <number> will be added in the list against <user> name who run commnad.
+hubot>> car update <number> <description> - Will update description of car mentioned.
+hubot>> car remove <number> - Car with <number> will be removed from the list.
+hubot>> car list - List all the cars.
+
+```
+
+#### Add Car
 ```
 user1>> hubot car add 1234 Honda City
 hubot>> Car Added: 1234 : user1 : user 1 : Honda City
+```
+
+#### Find Car
+```
+user1>> hubot car find 1234
+hubot>> user1 please visit car parking. user2 is looking for you.
+```
+
+#### Update Car
+```
+user1>> hubot car update 1234 Toyota Corolla
+hubot>> Car Updated: 1234 : user1 : user 1 : Toyota Corolla
+```
+
+#### List Car
+```
+user1>> hubot car list
+hubot>> Number	| Owner		| Description
+		1234 	| user 1 	  Toyota Corolla
+```
+
+#### Remove Car
+```
+user1>> hubot car remove 1234
+hubot>> Car removed: 1234
 ```
