@@ -72,7 +72,7 @@ module.exports = (robot) ->
 		  fullName = data.car["#{carNo}"].fullname
 		  des = data.car["#{carNo}"].des
 		  cars.push "#{carNo}	| #{fullName}		#{des}"
-		if cars.length > 0
+		if cars.length > 1
 		  return msg.send cars.join '\n'
 		msg.send 'No Cars'
 
