@@ -20,9 +20,6 @@
 
 module.exports = (robot) ->
 
-	robot.respond /PING$/i, (msg) ->
-		msg.send "PONG"
-
 	data = robot.brain.data
 
 	robot.respond /car add (.+)$/i, (msg) ->
