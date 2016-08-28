@@ -1,7 +1,7 @@
 {
   "name": "hubot-double-parking",
   "description": "A hubot script that solves double parking issue.",
-  "version": "1.0.2",
+  "version": "1.0.1",
   "author": "Waleed Ashraf <hy@waleedashraf.me>",
   "license": "MIT",
   "keywords": "hubot, hubot-scripts, car, parking, double parking",
