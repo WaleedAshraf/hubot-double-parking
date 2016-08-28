@@ -34,26 +34,26 @@ hubot>> car list - List all the cars.
 #### Add Car
 ```
 user1>> hubot car add 1234 Honda City
-hubot>> Car Added: 1234 : user1 : user 1 : Honda City
+hubot>> Car Added: 1234 : user1 : user one : Honda City
 ```
 
 #### Find Car
 ```
-user1>> hubot car find 1234
+user2>> hubot car find 1234
 hubot>> user1 please visit car parking. user2 is looking for you.
 ```
 
 #### Update Car
 ```
 user1>> hubot car update 1234 Toyota Corolla
-hubot>> Car Updated: 1234 : user1 : user 1 : Toyota Corolla
+hubot>> Car Updated: 1234 : user1 : user one : Toyota Corolla
 ```
 
 #### List Car
 ```
 user1>> hubot car list
 hubot>> Number	| Owner		| Description
-		1234 	| user 1 	  Toyota Corolla
+		1234 	| user one 	  Toyota Corolla
 ```
 
 #### Remove Car
