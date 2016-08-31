@@ -1,7 +1,7 @@
 [![NPM Version][npm-image]][npm-url]
 [![NPM Downloads][downloads-image]][downloads-url]
-[![NPM][npm-download-image]][npm-url]
 [![NPM][star-image]][star-url]
+[![NPM][npm-download-image]][npm-url]
 
 # hubot-double-parking
 
@@ -73,4 +73,4 @@ hubot>> Car removed: 1234
 [downloads-image]: https://img.shields.io/npm/dm/hubot-double-parking.svg
 [downloads-url]: https://www.npmjs.com/package/hubot-double-parking
 [star-image]: https://img.shields.io/github/waleedashraf/hubot-double-parking.svg?style=social&label=Star&maxAge=2592000
-[star-url]: http://inch-ci.org/github/waleedashraf/hubot-double-parking
+[star-url]: https://github.com/WaleedAshraf/hubot-double-parking
