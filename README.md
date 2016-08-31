@@ -1,3 +1,8 @@
+[![NPM Version][npm-image]][npm-url]
+[![NPM Downloads][downloads-image]][downloads-url]
+[![NPM][npm-download-image]][npm-url]
+[![NPM][star-image]][star-url]
+
 # hubot-double-parking
 
 A hubot script that solves double parking issue.
@@ -61,3 +66,11 @@ hubot>> Number	| Owner		| Description
 user1>> hubot car remove 1234
 hubot>> Car removed: 1234
 ```
+
+[npm-image]: https://img.shields.io/npm/v/hubot-double-parking.svg
+[npm-url]: https://www.npmjs.com/package/hubot-double-parking
+[npm-download-image]: https://nodei.co/npm/hubot-double-parking.png?downloads=true&downloadRank=true
+[downloads-image]: https://img.shields.io/npm/dm/hubot-double-parking.svg
+[downloads-url]: https://www.npmjs.com/package/hubot-double-parking
+[star-image]: https://img.shields.io/github/waleedashraf/hubot-double-parking.svg?style=social&label=Star&maxAge=2592000
+[star-url]: http://inch-ci.org/github/waleedashraf/hubot-double-parking
