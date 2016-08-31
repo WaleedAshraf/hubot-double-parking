@@ -1,6 +1,6 @@
 [![NPM Version][npm-image]][npm-url]
 [![NPM Downloads][downloads-image]][downloads-url]
-[![GitHub stars]()](https://github.com/WaleedAshraf/hubot-double-parking)
+[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star&maxAge=2592000)](https://github.com/WaleedAshraf/hubot-double-parking)
 
 [![NPM][npm-download-image]][npm-url]
 
