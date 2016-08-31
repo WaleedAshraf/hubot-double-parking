@@ -1,6 +1,7 @@
 [![NPM Version][npm-image]][npm-url]
 [![NPM Downloads][downloads-image]][downloads-url]
-[![NPM][star-image]][star-url]
+[![GitHub stars]()](https://github.com/WaleedAshraf/hubot-double-parking)
+
 [![NPM][npm-download-image]][npm-url]
 
 # hubot-double-parking
